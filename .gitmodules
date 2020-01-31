@@ -1,0 +1,3 @@
+[submodule "kafka-logger"]
+	path = kafka-logger
+	url = https://github.com/jaypatil/kafka-logger.git
